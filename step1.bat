@@ -1,0 +1,1 @@
+java -agentlib:native-image-agent=config-merge-dir=graal-conf -cp target/com.tugalsan.gvm.web-1.0-SNAPSHOT-jar-with-dependencies.jar com.tugalsan.gvm.web.Main
